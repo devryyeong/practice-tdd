@@ -40,9 +40,3 @@
 
 ## 📄 참고 사항
 * 숫자 입력은 **클릭**으로만 가능하다.
-
-<br/>
-
-
-## 📝 License
-This project is [MIT](https://github.com/next-step/js-calculator/blob/master/LICENSE) licensed.
